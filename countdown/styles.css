@@ -1,0 +1,35 @@
+
+body{
+  background-image: linear-gradient(to bottom right, #696EB8, #6BCF91);
+}
+
+div{
+  margin: 30px;
+}
+
+section{
+  margin: 80px auto;
+}
+
+.center{
+  text-align: center;
+}
+.col-wt{
+  color: white;
+}
+
+.mycol{
+  color: #C8DBBE;
+}
+
+ p{
+  font-size: 1.2rem;
+  color: #EDEDED;
+}
+
+.counter input{
+  height: 140px;
+  width: 120px;
+  text-align: center;
+  font-size: 2rem;
+}
