@@ -1,0 +1,26 @@
+body{
+  background-color: coral;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  transition: 1.5s;
+}
+
+.box{
+  padding: 10px;
+  background-color: white;
+  border-radius: 10px;
+  width: 30rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+
+button{
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+}
